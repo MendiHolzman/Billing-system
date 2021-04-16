@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Admin\source\repos\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Admin\source\repos\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Admin\source\repos\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Admin\source\repos\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Admin\source\repos\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
